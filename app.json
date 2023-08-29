@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "NewsFlash",
+    "slug": "NewsFlash",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/cat.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1b1f"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sharian.demo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 31
+          }
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "dfea7e30-f8d3-4ab4-ab94-d290ea31963a"
+      }
+    }
+  }
+}
