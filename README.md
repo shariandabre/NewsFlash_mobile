@@ -1,8 +1,6 @@
 # NewsFlash_mobile
 Presenting NewsFlash, a modern feed reader thoughtfully designed for your mobile device.A RSS reader app that brings the latest news and updates right to your fingertips. With a sleek and user-friendly design, this app makes it easy to stay informed on the go. Whether you’re on the train, waiting in line, or just taking a break, you can quickly catch up on the latest headlines and stories from your favorite sources. Don’t miss out on the news that matters to you - download our NewsFlash mobile app today!
 
-![image](https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/bf108a76-797b-4eed-9ff0-2abfb9de2016)
-
 
 ![image](https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/987f5ea3-dc22-47aa-939a-53b4aa282de6)
 
@@ -16,4 +14,6 @@ Presenting NewsFlash, a modern feed reader thoughtfully designed for your mobile
 
 ![image](https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/9d7388a8-23fc-4bb0-bcf5-85f4d6232cdd)
 
-![image](https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/2db309ef-6f4c-4756-97ca-d1d621b47855)
+![image](https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/bf108a76-797b-4eed-9ff0-2abfb9de2016)
+
+
