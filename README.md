@@ -3,7 +3,7 @@ Presenting NewsFlash, a modern feed reader thoughtfully designed for your mobile
 
 [Watch the video](https://youtu.be/SnJ80G8bOps)
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<div float="left">
   <div>
     <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/987f5ea3-dc22-47aa-939a-53b4aa282de6" width="100%">
   </div>
@@ -13,6 +13,7 @@ Presenting NewsFlash, a modern feed reader thoughtfully designed for your mobile
   <div>
     <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/213b344f-14cc-4bb6-83a3-44de8e522c81" width="100%">
   </div>
+</div>
   <div>
     <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/80f738c2-63f5-47f1-84f9-e5ae05a70d52" width="100%">
   </div>
@@ -25,4 +26,4 @@ Presenting NewsFlash, a modern feed reader thoughtfully designed for your mobile
   <div>
     <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/bf108a76-797b-4eed-9ff0-2abfb9de2016" width="100%">
   </div>
-</div>
+
