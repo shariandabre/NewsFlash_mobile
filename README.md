@@ -5,16 +5,16 @@ Presenting NewsFlash, a modern feed reader thoughtfully designed for your mobile
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/987f5ea3-dc22-47aa-939a-53b4aa282de6" width="100%">
+    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/987f5ea3-dc22-47aa-939a-53b4aa282de6" width="50%">
   </div>
   <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/cd2d2b7e-a11c-44c3-80fd-14f6e95bb1c7" width="100%">
+    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/cd2d2b7e-a11c-44c3-80fd-14f6e95bb1c7" width="50%">
   </div>
   <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/213b344f-14cc-4bb6-83a3-44de8e522c81" width="100%">
+    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/213b344f-14cc-4bb6-83a3-44de8e522c81" width="50%">
   </div>
   <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/80f738c2-63f5-47f1-84f9-e5ae05a70d52" width="100%">
+    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/80f738c2-63f5-47f1-84f9-e5ae05a70d52" width="50%">
   </div>
   <div style="flex: 1; margin: 10px;">
     <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/c7a0dd22-883f-42aa-8cd5-96ba3134f678" width="100%">
