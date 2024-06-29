@@ -3,26 +3,26 @@ Presenting NewsFlash, a modern feed reader thoughtfully designed for your mobile
 
 [Watch the video](https://youtu.be/SnJ80G8bOps)
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/987f5ea3-dc22-47aa-939a-53b4aa282de6" width="50%">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <div>
+    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/987f5ea3-dc22-47aa-939a-53b4aa282de6" width="100%">
   </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/cd2d2b7e-a11c-44c3-80fd-14f6e95bb1c7" width="50%">
+  <div>
+    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/cd2d2b7e-a11c-44c3-80fd-14f6e95bb1c7" width="100%">
   </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/213b344f-14cc-4bb6-83a3-44de8e522c81" width="50%">
+  <div>
+    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/213b344f-14cc-4bb6-83a3-44de8e522c81" width="100%">
   </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/80f738c2-63f5-47f1-84f9-e5ae05a70d52" width="50%">
+  <div>
+    <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/80f738c2-63f5-47f1-84f9-e5ae05a70d52" width="100%">
   </div>
-  <div style="flex: 1; margin: 10px;">
+  <div>
     <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/c7a0dd22-883f-42aa-8cd5-96ba3134f678" width="100%">
   </div>
-  <div style="flex: 1; margin: 10px;">
+  <div>
     <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/9d7388a8-23fc-4bb0-bcf5-85f4d6232cdd" width="100%">
   </div>
-  <div style="flex: 1; margin: 10px;">
+  <div>
     <img src="https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/bf108a76-797b-4eed-9ff0-2abfb9de2016" width="100%">
   </div>
 </div>
