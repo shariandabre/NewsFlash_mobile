@@ -4,6 +4,7 @@ Presenting NewsFlash, a modern feed reader thoughtfully designed for your mobile
 [Watch the video](https://youtu.be/SnJ80G8bOps)
 
 
+:-------------------------:|:-------------------------:
 
 ![](https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/987f5ea3-dc22-47aa-939a-53b4aa282de6)  |  ![](https://github.com/shariandabre/NewsFlash_mobile/assets/94830605/cd2d2b7e-a11c-44c3-80fd-14f6e95bb1c7)
 
